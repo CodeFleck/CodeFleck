@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeFleck
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in maximazing companies efficency through automation
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Java projects
