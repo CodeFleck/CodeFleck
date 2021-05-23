@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Daniel
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Java projects
+- 👋 Hi, I’m Daniel
+- 🌱 I’m looking to collaborate on Java projects
 - 📫 How to reach me -> https://codefleck.github.io/
 
 <!---
