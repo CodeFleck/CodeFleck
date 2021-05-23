@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Daniel
-- 👀 I’m interested in maximazing companies efficency through Spring Batch automation
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me -> https://codefleck.github.io/
