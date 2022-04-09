@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 🌱 I’m looking to collaborate on Java projects
+- 🌱 I’m looking to collaborate on Java or Kotlin projects
 - 📫 How to reach me -> https://codefleck.github.io/
 
 
