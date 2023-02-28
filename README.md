@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Daniel
 - 🌱 I’m looking to collaborate on Java or Kotlin projects
-- 📫 How to reach me -> codefleck@outlook.com
 
 
 <!---
