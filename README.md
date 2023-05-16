@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Daniel
-- 🌱 I’m looking to collaborate on Java or Kotlin projects
+- 👋 Hi
 
 
 <!---
