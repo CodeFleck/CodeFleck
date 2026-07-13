@@ -10,7 +10,7 @@ I build **AI-powered automation** — taking hard, boring, real-world processes 
 
 **📜 Earlier work**
 
-- ⚡ [fleckbot](https://github.com/CodeFleck/fleckbot) — my 2018 autonomous Bitcoin trading bot: LSTM price prediction with DeepLearning4j, ta4j backtesting, and a Spring MVC dashboard. Currently being reborn with Claude as the analyst — same bot, new brain.
+- ⚡ [fleckbot](https://github.com/CodeFleck/fleckbot) — my 2018 autonomous Bitcoin trading bot: LSTM price prediction with DeepLearning4j, ta4j backtesting, and a Spring MVC dashboard. Recently reborn with Claude as the analyst — same bot, new brain.
 - 📈 [cripto-clima](https://github.com/CodeFleck/cripto-clima) — Bitcoin price forecasting with LSTM networks.
 
 **🧰 Stack:** Python/FastAPI · TypeScript/React · Java/Spring · PostgreSQL · Claude & LLM agent systems
