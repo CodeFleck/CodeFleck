@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel Fleck 👋
 
-I build **AI-powered automation** — taking hard, boring, real-world processes and turning them into software that runs itself, with a human in the loop where it counts.
+I'm a builder. I like taking hard, boring, real-world processes and turning them into software that runs itself.
 
 **🔨 Recent builds**
 
