@@ -5,7 +5,7 @@ I'm a builder. I like taking hard, boring, real-world processes and turning them
 **🔨 Recent builds**
 
 - 🤖 **FleckBot V2** — an AI trading-signal platform: Claude analyzes crypto markets around the clock, I approve or reject every trade, and an honest scoreboard tracks whether the bot actually beats buy & hold. Tiered model routing keeps the AI bill at pennies a day. *(Python/FastAPI · React/TS · PostgreSQL · Claude)*
-- 🏭 **Industrial Cloud** — an industrial IoT platform: device fleets, MQTT telemetry ingestion, dashboards, and anomaly detection. The build journal from its first months is public at [weekly-Industrial-Cloud](https://github.com/CodeFleck/weekly-Industrial-Cloud).
+- 🏭 **Industrial Cloud** — an industrial IoT platform: device fleets, MQTT telemetry ingestion, dashboards, and anomaly detection. 
 - 🇧🇷 **Brazilian tax-certificate robots** — headless automation that fetches compliance certificates from six different government systems.
 
 **📜 Earlier work**
